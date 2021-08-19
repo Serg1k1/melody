@@ -91,6 +91,10 @@ body {
     opacity: 0;
 }
 
+path.current-floor {
+    opacity: 1;
+}
+
 .home__img path:hover {
     opacity: 1;
     cursor: pointer;
@@ -135,5 +139,4 @@ body {
     border: none;
     padding: 16px 36px;
     cursor: pointer;
-
 }
